@@ -1,0 +1,4 @@
+send_email
+__pycache__
+.DS_Store
+*.pyc
